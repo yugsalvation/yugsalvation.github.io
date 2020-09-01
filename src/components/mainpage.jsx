@@ -3,6 +3,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./mainpage.css";
 import BasicInfo from "./basicinfo";
 import AboutMe from "./aboutme";
+import "./aboutme.css";
 class MainPage extends Component {
   state = {};
   render() {
