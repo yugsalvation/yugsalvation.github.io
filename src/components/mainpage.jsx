@@ -18,7 +18,7 @@ class MainPage extends Component {
         </div>
         <div className="row">
           <div className="col-sm-1 "></div>
-          <div className="col-sm-10 basicinfo2">
+          <div className="col-sm-10 aboutmee">
             <AboutMe />
           </div>
           <div className="col-sm-1 "></div>

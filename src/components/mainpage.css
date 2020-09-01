@@ -3,6 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Roboto:wght@100;400&display=swap");
 .basicinfo {
   background-color: hsl(0, 0%, 100%, 70%);
+  border-radius: 20px;
   text-align: center;
   height: 100%;
   margin: 10px;
@@ -12,8 +13,9 @@
   font-family: "Roboto", sans-serif;
   font-size: auto;
 }
-.basicinfo2 {
+.aboutmee {
   background-color: hsl(0, 0%, 100%, 70%);
+  border-radius: 20px;
   text-align: center;
   height: 100%;
   margin: 10px;
