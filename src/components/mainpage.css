@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Roboto:wght@100;400&display=swap");
+.basicinfo {
+  background-color: hsl(0, 0%, 100%, 70%);
+  text-align: center;
+  height: 100%;
+  margin: 20px;
+  padding: 10px;
+
+  font-family: "Open Sans Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-size: auto;
+}
+.basicinfo2 {
+  background-color: hsl(0, 0%, 100%, 70%);
+  text-align: center;
+  height: 100%;
+  margin: 20px;
+  padding: 10px;
+
+  font-family: "Open Sans Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-size: auto;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
