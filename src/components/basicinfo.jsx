@@ -41,15 +41,15 @@ class BasicInfo extends Component {
                     >
                       <i class="fab fa-linkedin"></i>
                     </a>{" "}
-                    |
+                    |{" "}
                     <a
                       href="https://github.com/yugsalvation"
                       target="_blank"
                       className="link"
                     >
                       <i class="fab fa-github"></i>
-                    </a>
-                    |
+                    </a>{" "}
+                    |{" "}
                     <a
                       href="https://twitter.com/Yug_Rawal"
                       target="_blank"
