@@ -49,6 +49,14 @@ class BasicInfo extends Component {
                     >
                       <i class="fab fa-github"></i>
                     </a>
+                    |
+                    <a
+                      href="https://twitter.com/Yug_Rawal"
+                      target="_blank"
+                      className="link"
+                    >
+                      <i class="fab fa-twitter-square"></i>
+                    </a>
                   </td>
                 </tr>
               </tbody>
