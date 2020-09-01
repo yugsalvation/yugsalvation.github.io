@@ -2,7 +2,7 @@
   border: 1px solid #555;
   border-radius: 150px;
   padding: 10px;
-  background-color: black;
+  background-image: linear-gradient(90deg, #4d0f00, #ffffff, #4d0f00, #ffffff);
 }
 .leftside {
   text-align: center;
