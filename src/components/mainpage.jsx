@@ -3,6 +3,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "./mainpage.css";
 import BasicInfo from "./basicinfo";
 import AboutMe from "./aboutme";
+import Education from "./education";
 import "./aboutme.css";
 class MainPage extends Component {
   state = {};
@@ -20,6 +21,14 @@ class MainPage extends Component {
           <div className="col-sm-1 "></div>
           <div className="col-sm-10 aboutmee">
             <AboutMe />
+          </div>
+          <div className="col-sm-1 "></div>
+        </div>
+
+        <div className="row">
+          <div className="col-sm-1 "></div>
+          <div className="col-sm-10 educatione">
+            <Education />
           </div>
           <div className="col-sm-1 "></div>
         </div>

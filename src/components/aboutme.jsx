@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./aboutme.css";
 class AboutMe extends Component {
   state = {};
   render() {
@@ -7,13 +8,10 @@ class AboutMe extends Component {
         <div class="row">
           <div className="col-sm-2"></div>
           <div className="col-sm-8">
+            {" "}
+            <h3>About me</h3>
             <table className="table table-borderless">
               <tbody>
-                <tr>
-                  <td>
-                    <h3>About me</h3>
-                  </td>
-                </tr>
                 <tr>
                   <td className="aboutme">
                     <p>
