@@ -1,5 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Roboto:wght@100;400&display=swap");
+
 .nav1 {
   background-image: linear-gradient(-90deg, #e6e600 10%, #d9b3ff);
+  font-family: "Open Sans Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-size: auto;
 }
 .navlinkcolor {
   color: black;
