@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <Route component={MainPage} exact path="/" />
-      <Route component={Academic} path="/academic" />
+      <Route component={Academic} exact path="/academic" />
     </div>
   );
 }
