@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&family=Roboto:wght@100;400&display=swap");
+.backgroundp {
+  background-color: hsl(0, 0%, 100%, 75%);
+  border-radius: 20px;
+  text-align: center;
+  margin-top: 10px;
+
+  font-family: "Open Sans Condensed", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-size: auto;
+}
+.personal {
+  text-align: left;
+}
+.tenurep {
+  text-align: right;
+}
+.tablebor {
+  border-radius: 20px;
+}
+.contentp {
+  background-color: hsl(0, 0%, 100%, 40%);
+  border-radius: 20px;
+}

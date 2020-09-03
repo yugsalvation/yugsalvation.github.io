@@ -45,7 +45,7 @@ class Academic extends Component {
                     </p>
                   </td>
                   <td className="tenureac">
-                    <p>Aug 2020</p>
+                    <p>August 2020</p>
                   </td>
                 </tr>
                 <br />
