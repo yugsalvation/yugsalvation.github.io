@@ -9,11 +9,7 @@ function App() {
   return (
     <div>
       <Route component={MainPage} exact path="/" />
-      <Route
-        component={Academic}
-        exact
-        path={process.env.PUBLIC_URL + "/academic"}
-      />
+      <Route component={Academic} path="/academic" />
     </div>
   );
 }
