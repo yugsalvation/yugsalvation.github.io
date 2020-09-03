@@ -2,3 +2,11 @@
   text-align: justify;
   text-justify: inter-word;
 }
+.headinga {
+  background-color: hsl(0, 0%, 100%, 40%);
+  border-radius: 20px;
+}
+.contenta {
+  background-color: hsl(0, 0%, 100%, 40%);
+  border-radius: 20px;
+}

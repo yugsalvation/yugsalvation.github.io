@@ -9,7 +9,7 @@ class WorkExp extends Component {
           <div className="col-sm-2"></div>
           <div className="col-sm-8">
             <h3>Work Experience</h3>
-            <table className="table table-borderless">
+            <table className="table table-borderless contentw">
               <tbody>
                 <tr>
                   <td className="workexps">

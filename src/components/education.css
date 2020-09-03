@@ -1,9 +1,17 @@
 .education {
   text-align: left;
 }
+.headinge {
+  background-color: hsl(0, 0%, 100%, 40%);
+  border-radius: 20px;
+}
 .tenure {
   text-align: right;
 }
 .row1 {
   text-align: center;
+}
+.contente {
+  background-color: hsl(0, 0%, 100%, 40%);
+  border-radius: 20px;
 }

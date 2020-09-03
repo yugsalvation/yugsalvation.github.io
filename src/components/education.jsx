@@ -9,7 +9,7 @@ class Education extends Component {
           <div className="col-sm-2"></div>
           <div className="col-sm-8">
             <h3>Education</h3>
-            <table className="table table-borderless">
+            <table className="table table-borderless contente">
               <tbody>
                 <tr>
                   <td className="education">

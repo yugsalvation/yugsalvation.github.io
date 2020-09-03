@@ -12,7 +12,7 @@ class BasicInfo extends Component {
         <div class="row">
           <div className="col-sm-2"></div>
           <div className="col-sm-8">
-            <table className="table table-borderless">
+            <table className="table table-borderless contentb">
               <tbody>
                 <tr>
                   <td>

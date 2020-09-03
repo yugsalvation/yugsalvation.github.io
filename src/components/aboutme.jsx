@@ -10,7 +10,7 @@ class AboutMe extends Component {
           <div className="col-sm-8">
             {" "}
             <h3>About me</h3>
-            <table className="table table-borderless">
+            <table className="table table-borderless contenta">
               <tbody>
                 <tr>
                   <td className="aboutme">
