@@ -5,11 +5,11 @@ class BasicInfo extends Component {
   state = {};
   render() {
     return (
-      <div class="container">
+      <div className="container">
         <div id="borderimg2">
           <img src={require("../images/yug.png")} alt="" id="borderimg" />
         </div>
-        <div class="row">
+        <div className="row">
           <div className="col-sm-2"></div>
           <div className="col-sm-8">
             <table className="table table-borderless contentb">
@@ -23,8 +23,9 @@ class BasicInfo extends Component {
                       className="link"
                     >
                       {" "}
-                      <i class="fas fa-paper-plane"></i> bhadresy@uwindsor.ca{" "}
-                      <i class="fas fa-paper-plane"></i>{" "}
+                      <i className="fas fa-paper-plane"></i>{" "}
+                      bhadresy@uwindsor.ca{" "}
+                      <i className="fas fa-paper-plane"></i>{" "}
                     </a>
                   </td>
                 </tr>
@@ -39,7 +40,7 @@ class BasicInfo extends Component {
                       target="_blank"
                       className="link"
                     >
-                      <i class="fab fa-linkedin"></i>
+                      <i className="fab fa-linkedin"></i>
                     </a>{" "}
                     |{" "}
                     <a
@@ -47,7 +48,7 @@ class BasicInfo extends Component {
                       target="_blank"
                       className="link"
                     >
-                      <i class="fab fa-github"></i>
+                      <i className="fab fa-github"></i>
                     </a>{" "}
                     |{" "}
                     <a
@@ -55,7 +56,7 @@ class BasicInfo extends Component {
                       target="_blank"
                       className="link"
                     >
-                      <i class="fab fa-twitter-square"></i>
+                      <i className="fab fa-twitter-square"></i>
                     </a>
                   </td>
                 </tr>

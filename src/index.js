@@ -14,6 +14,7 @@ ReactDOM.render(
   </BrowserRouter>,
   document.getElementById("root")
 );
+console.log("hello" + process.env.PUBLIC_URL);
 // var x = (
 //   <React.StrictMode>
 //     <MainPage />

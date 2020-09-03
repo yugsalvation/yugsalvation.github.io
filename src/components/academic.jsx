@@ -5,8 +5,8 @@ class Academic extends Component {
   state = {};
   render() {
     return (
-      <div class="container">
-        <div class="row">
+      <div className="container">
+        <div className="row">
           <div className="col-sm-1"></div>
           <div className="col-sm-10 backgroundc">
             <h3>Academic Projects</h3>

@@ -4,8 +4,8 @@ class AboutMe extends Component {
   state = {};
   render() {
     return (
-      <div class="container">
-        <div class="row">
+      <div className="container">
+        <div className="row">
           <div className="col-sm-2"></div>
           <div className="col-sm-8">
             {" "}
