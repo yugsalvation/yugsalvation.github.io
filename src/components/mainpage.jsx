@@ -5,7 +5,9 @@ import BasicInfo from "./basicinfo";
 import AboutMe from "./aboutme";
 import Education from "./education";
 import WorkExp from "./workexp";
+import TechnicalSkills from "./technicalskills";
 import "./aboutme.css";
+import Cocurricular from "./cocurricular";
 class MainPage extends Component {
   state = {};
   render() {
@@ -25,6 +27,13 @@ class MainPage extends Component {
           </div>
           <div className="col-sm-1 "></div>
         </div>
+        <div className="row">
+          <div className="col-sm-1 "></div>
+          <div className="col-sm-10 aboutmee">
+            <TechnicalSkills />
+          </div>
+          <div className="col-sm-1 "></div>
+        </div>
 
         <div className="row">
           <div className="col-sm-1 "></div>
@@ -37,6 +46,13 @@ class MainPage extends Component {
           <div className="col-sm-1 "></div>
           <div className="col-sm-10 educatione">
             <WorkExp />
+          </div>
+          <div className="col-sm-1 "></div>
+        </div>
+        <div className="row">
+          <div className="col-sm-1 "></div>
+          <div className="col-sm-10 educatione">
+            <Cocurricular />
           </div>
           <div className="col-sm-1 "></div>
         </div>
