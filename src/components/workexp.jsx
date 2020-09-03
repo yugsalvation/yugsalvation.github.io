@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import "./education.css";
-class Education extends Component {
+import "./workexp.css";
+class WorkExp extends Component {
   state = {};
   render() {
     return (
@@ -8,31 +8,34 @@ class Education extends Component {
         <div class="row">
           <div className="col-sm-2"></div>
           <div className="col-sm-8">
-            <h3>Education</h3>
+            <h3>Work Experience</h3>
             <table className="table table-borderless">
               <tbody>
                 <tr>
-                  <td className="education">
+                  <td className="workexps">
                     <p>
                       {" "}
-                      <b>Master of Applied Computing</b>
+                      <b>Junior Software Developer (Remote)</b>
                     </p>{" "}
-                    University of Windsor, Windsor, ON, Canada
+                    Swing IT Services, Ahmedabad, Gujarat, India
                   </td>
                   <td className="tenure">
-                    <p>Jan 2020 - Present</p>
+                    <p>June 2020 - Present</p>
+                    <p>
+                      <b>(6 month contract)</b>
+                    </p>
                   </td>
                 </tr>
                 <tr>
-                  <td className="education">
+                  <td className="workexps">
                     <p>
                       {" "}
-                      <b>Bachelor of Engineering in Information Technology</b>
+                      <b>Web Developer Intern</b>
                     </p>{" "}
-                    Gujarat Technological University, Ahmedabad, India
+                    Swing IT Services, Ahmedabad, Gujarat, India
                   </td>
                   <td className="tenure">
-                    <p>Jan 2015 - May 2019</p>
+                    <p>Jan 2018 - March 2018</p>
                   </td>
                 </tr>
               </tbody>
@@ -45,4 +48,4 @@ class Education extends Component {
   }
 }
 
-export default Education;
+export default WorkExp;

@@ -4,6 +4,7 @@ import "./mainpage.css";
 import BasicInfo from "./basicinfo";
 import AboutMe from "./aboutme";
 import Education from "./education";
+import WorkExp from "./workexp";
 import "./aboutme.css";
 class MainPage extends Component {
   state = {};
@@ -29,6 +30,13 @@ class MainPage extends Component {
           <div className="col-sm-1 "></div>
           <div className="col-sm-10 educatione">
             <Education />
+          </div>
+          <div className="col-sm-1 "></div>
+        </div>
+        <div className="row">
+          <div className="col-sm-1 "></div>
+          <div className="col-sm-10 educatione">
+            <WorkExp />
           </div>
           <div className="col-sm-1 "></div>
         </div>
