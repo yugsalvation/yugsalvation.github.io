@@ -60,6 +60,212 @@ class Personal extends Component {
                   <td className="personal">
                     <p>
                       {" "}
+                      <b>Movie Shoppies</b>
+                    </p>{" "}
+                    <p>
+                      {" "}
+                      Link:{" "}
+                      <a
+                        href="https://github.com/yugsalvation/shoppies"
+                        target="_blank"
+                      >
+                        Github
+                      </a>
+                    </p>
+                    <p>
+                      <a
+                        href="https://yugsalvation.github.io/shoppies/"
+                        target="_blank"
+                      >
+                        {" "}
+                        Live demo
+                      </a>
+                    </p>
+                    <p>
+                      <b>Technologies or Libraries:</b> ReactJs.
+                    </p>
+                    <p>
+                      <ul>
+                        <li>
+                          A ReactJS application to search movies and nominated
+                          as per the choice. <br />
+                          Features:
+                          <ul>
+                            <li>Used OMDB api for data.</li>
+                            <li>
+                              {" "}
+                              The search of a movie and getting results is
+                              completely dynamic, no button is needed to get
+                              show the results.
+                            </li>
+                            <li>
+                              A click on the nominate button of a movie item
+                              adds it in the nominated movie list and disable
+                              that item from further addition.
+                            </li>
+                            <li>
+                              Removing an item from the nominated movie list
+                              automatically enables the item in the search list
+                              from again getting nominated.
+                            </li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </p>
+                  </td>
+                  <td className="tenurep">
+                    <p>August 2020</p>
+                  </td>
+                </tr>
+                <br />
+                <tr>
+                  <td className="personal">
+                    <p>
+                      {" "}
+                      <b>SpringDataRest</b>
+                    </p>{" "}
+                    <p>
+                      {" "}
+                      Link:{" "}
+                      <a
+                        href="https://github.com/yugsalvation/SpringDataRest"
+                        target="_blank"
+                      >
+                        Github
+                      </a>
+                    </p>
+                    <p>
+                      <b>Technologies:</b> Spring Boot, JPA, Spring Rest
+                      Repository.
+                    </p>
+                    <p>
+                      <ul>
+                        <li>
+                          Developed a CRUD REST API for implementing operations
+                          on COURSES table in MySql Database
+                        </li>
+                      </ul>
+                    </p>
+                  </td>
+                  <td className="tenurep">
+                    <p>August 2020</p>
+                  </td>
+                </tr>
+                <br />
+                <tr>
+                  <td className="personal">
+                    <p>
+                      {" "}
+                      <b>MyOwnBashTerminal</b>
+                    </p>{" "}
+                    <p>
+                      {" "}
+                      Link:{" "}
+                      <a
+                        href="https://github.com/yugsalvation/MyOwnBashTerminal"
+                        target="_blank"
+                      >
+                        Github
+                      </a>
+                    </p>
+                    <p>
+                      <b>Technologies:</b> C
+                    </p>
+                    <p>
+                      <ul>
+                        <li>Bash Terminal coded in C</li>
+                        <li>Each command is treated as new process</li>
+                        <li>
+                          Process id of the child ( command execution) is
+                          printed after it exits
+                        </li>
+                        <li>Used Unix I/O functions only</li>
+                      </ul>
+                    </p>
+                  </td>
+                  <td className="tenurep">
+                    <p>August 2020</p>
+                  </td>
+                </tr>
+                <br />
+                <tr>
+                  <td className="personal">
+                    <p>
+                      {" "}
+                      <b>Calculator React App</b>
+                    </p>{" "}
+                    <p>
+                      {" "}
+                      Link:{" "}
+                      <a
+                        href="https://github.com/yugsalvation/calculatorReactApp"
+                        target="_blank"
+                      >
+                        Github
+                      </a>
+                    </p>
+                    <p>
+                      <a
+                        href="https://yugsalvation.github.io/calculatorReactApp/"
+                        target="_blank"
+                      >
+                        Live Demo
+                      </a>
+                    </p>
+                    <p>
+                      <b>Technologies or Libraries:</b> ReactJs
+                    </p>
+                    <p>
+                      <ul>
+                        <li>Created Calculator using ReactJs</li>
+                      </ul>
+                    </p>
+                  </td>
+                  <td className="tenurep">
+                    <p>August 2020</p>
+                  </td>
+                </tr>
+                <br />
+                <tr>
+                  <td className="personal">
+                    <p>
+                      {" "}
+                      <b>Analog Chronometer</b>
+                    </p>{" "}
+                    <p>
+                      {" "}
+                      Link:{" "}
+                      <a
+                        href="https://github.com/yugsalvation/Analog-Chronometer/tree/master"
+                        target="_blank"
+                      >
+                        Github
+                      </a>
+                    </p>
+                    <p>
+                      <b>Technology</b> Javascript
+                    </p>
+                    <p>
+                      <ul>
+                        <li>
+                          An Analog clock built using Javascript and HTML.
+                        </li>
+                        <li>
+                          "Tick" sound is played every second in coordination
+                          with the second's arm of the clock
+                        </li>
+                      </ul>
+                    </p>
+                  </td>
+                  <td className="tenurep">
+                    <p>August 2020</p>
+                  </td>
+                </tr>
+                <br />
+                <tr>
+                  <td className="personal">
+                    <p>
+                      {" "}
                       <b>To-Do Web application</b>
                     </p>{" "}
                     <p>
