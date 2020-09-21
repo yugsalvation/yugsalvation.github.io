@@ -18,6 +18,45 @@ class Personal extends Component {
                   <td className="personal">
                     <p>
                       {" "}
+                      <b>Memory Game</b>
+                    </p>{" "}
+                    <p>
+                      {" "}
+                      Link:{" "}
+                      <a
+                        href="https://github.com/yugsalvation/MEMORY-GAME-JS"
+                        target="_blank"
+                      >
+                        Github
+                      </a>
+                    </p>
+                    <p>
+                      <a
+                        href="https://yugsalvation.github.io/MEMORY-GAME-JS/"
+                        target="_blank"
+                      >
+                        {" "}
+                        Play the Game here
+                      </a>
+                    </p>
+                    <p>
+                      <b>Technologies:</b> Javascript,HTML,CSS
+                    </p>
+                    <p>
+                      <ul>
+                        <li>Developed a memory game or flip over game in JS</li>
+                      </ul>
+                    </p>
+                  </td>
+                  <td className="tenurep">
+                    <p>September 2020</p>
+                  </td>
+                </tr>
+                <br />
+                <tr>
+                  <td className="personal">
+                    <p>
+                      {" "}
                       <b>Virtual Xerox</b>
                     </p>{" "}
                     <p>
