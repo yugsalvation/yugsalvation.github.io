@@ -18,6 +18,45 @@ class Personal extends Component {
                   <td className="personal">
                     <p>
                       {" "}
+                      <b>Whack A Mole</b>
+                    </p>{" "}
+                    <p>
+                      {" "}
+                      Link:{" "}
+                      <a
+                        href="https://github.com/yugsalvation/WhackAMole/tree/master"
+                        target="_blank"
+                      >
+                        Github
+                      </a>
+                    </p>
+                    <p>
+                      <a
+                        href="https://yugsalvation.github.io/WhackAMole/"
+                        target="_blank"
+                      >
+                        {" "}
+                        Play the Game here
+                      </a>
+                    </p>
+                    <p>
+                      <b>Technologies:</b> Javascript,HTML,CSS
+                    </p>
+                    <p>
+                      <ul>
+                        <li>Developed the popular game of 1975 in JS</li>
+                      </ul>
+                    </p>
+                  </td>
+                  <td className="tenurep">
+                    <p>September 2020</p>
+                  </td>
+                </tr>
+                <br />
+                <tr>
+                  <td className="personal">
+                    <p>
+                      {" "}
                       <b>Memory Game</b>
                     </p>{" "}
                     <p>
