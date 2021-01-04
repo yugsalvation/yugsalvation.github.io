@@ -15,6 +15,18 @@ class WorkExp extends Component {
                   <td className="workexps">
                     <p>
                       {" "}
+                      <b>IT intern</b>
+                    </p>{" "}
+                    #HastagGrow, London, Ontario
+                  </td>
+                  <td className="tenure">
+                    <p>Jan 2021 - Present</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td className="workexps">
+                    <p>
+                      {" "}
                       <b>Junior Software Developer (Remote)</b>
                     </p>{" "}
                     Swing IT Services, Ahmedabad, Gujarat, India
