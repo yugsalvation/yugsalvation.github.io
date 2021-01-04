@@ -16,12 +16,11 @@ class AboutMe extends Component {
                   <td className="aboutme">
                     <p>
                       I am a Master of Applied Computing student at the
-                      University of Windsor and I am looking for full time 4 to
-                      8 months internship opportunities starting in winter 2021.
-                      While pursuing the masters at the University of Windsor, I
-                      have gained knowledge in Software Engineering, Data
-                      structures and Algorithms, Database concepts and System
-                      Programming.
+                      University of Windsor and Currently, I am working as an IT
+                      intern in #HastagGrow. While pursuing the masters at the
+                      University of Windsor, I have gained knowledge in Software
+                      Engineering, Data structures and Algorithms, Database
+                      concepts and System Programming.
                       <br />I have started to love to code since my high school
                       days and since those days, I have been coding almost every
                       day on popular websites like hackerrrank, leetcode and
