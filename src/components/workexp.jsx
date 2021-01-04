@@ -20,7 +20,7 @@ class WorkExp extends Component {
                     Swing IT Services, Ahmedabad, Gujarat, India
                   </td>
                   <td className="tenure">
-                    <p>June 2020 - Present</p>
+                    <p>June 2020 - Nov 2020</p>
                     <p>
                       <b>(6 month contract)</b>
                     </p>
