@@ -26,7 +26,7 @@ class BasicInfo extends Component {
                       <i className="fas fa-paper-plane"></i>{" "}
                       bhadresy@uwindsor.ca{" "}
                       <i className="fas fa-paper-plane"></i>{" "}
-                    </a>
+                    </a> <br/>
                     <a
                       href="mailto:yugrawal.rawal11@gmail.com"
                       target="_blank"
