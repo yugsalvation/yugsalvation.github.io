@@ -27,10 +27,20 @@ class BasicInfo extends Component {
                       bhadresy@uwindsor.ca{" "}
                       <i className="fas fa-paper-plane"></i>{" "}
                     </a>
+                    <a
+                      href="mailto:yugrawal.rawal11@gmail.com"
+                      target="_blank"
+                      className="link"
+                    >
+                      {" "}
+                      <i className="fas fa-paper-plane"></i>{" "}
+                      yugrawal.rawal11@gmail.com{" "}
+                      <i className="fas fa-paper-plane"></i>{" "}
+                    </a>
                   </td>
                 </tr>
                 <tr>
-                  <td>1478 Wyandotte Street West, Windsor, Ontario N9B 1H4 </td>
+                  <td>746 Oxford St W, London ON N6H 1V2 </td>
                 </tr>
 
                 <tr>
